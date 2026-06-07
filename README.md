@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="./assets/deepseek-v4-flow.gif" width="100%" alt="DeepSeek V4 LLM inference flowchart — layers light up sequentially"/>
-
-</div>
-
 ## 🎸 About Me
 
 CS / AI enthusiast · UC SanDiego · Focused on **LLM inference**, **PyTorch internals**, and **Reinforcement Learning**. Currently looking for opportunities in AI / ML engineering.
@@ -78,10 +72,4 @@ CS / AI enthusiast · UC SanDiego · Focused on **LLM inference**, **PyTorch int
 |---------|-------------|------|
 | [Pixel-ASCII_Animation_Web](https://github.com/Beater-221E/Pixel-ASCII_Animation_Web) | Pixel ASCII animation · University of Liverpool | `HTML` |
 
----
 
-<div align="center">
-
-*🎸 Keep coding, one step at a time~*
-
-</div>
