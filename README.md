@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Honkai: Star Rail inspired Astral Express pixel train -->
-<img src="./assets/astral-express-train.gif" width="100%" alt="Astral Express pixel train animation"/>
+<img src="./assets/deepseek-v4-flow.gif" width="100%" alt="DeepSeek V4 LLM inference flowchart — layers light up sequentially"/>
 
 </div>
 
@@ -82,10 +81,6 @@ CS / AI enthusiast · UC SanDiego · Focused on **LLM inference**, **PyTorch int
 ---
 
 <div align="center">
-
-<img src="./assets/astral-express-train.gif" width="100%" alt="Astral Express pixel train animation"/>
-
-<br/>
 
 *🎸 Keep coding, one step at a time~*
 
