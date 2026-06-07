@@ -1,20 +1,13 @@
 <div align="center">
 
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=667eea,764ba2&height=180&section=header&text=Sheng%20%7C%20Beater-221E&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%"/>
-
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sheng+%F0%9F%8E%B8;Learning+AI+%26+LLM+Systems;Exploring+PyTorch+%26+Reinforcement+Learning;Job+hunting+%7C+Open+to+opportunities;One+step+at+a+time~+%F0%9F%8E%B8" alt="Typing SVG" />
-</a>
+<!-- Honkai: Star Rail inspired Astral Express pixel train -->
+<img src="./assets/astral-express-train.gif" width="100%" alt="Astral Express pixel train animation"/>
 
 </div>
 
----
-
 ## 🎸 About Me
 
-CS / AI enthusiast · University of Liverpool · Focused on **LLM inference**, **PyTorch internals**, and **Reinforcement Learning**. Currently looking for opportunities in AI / ML engineering. 🎸 One step at a time~
+CS / AI enthusiast · UC SanDiego · Focused on **LLM inference**, **PyTorch internals**, and **Reinforcement Learning**. Currently looking for opportunities in AI / ML engineering.
 
 ### ⭐ Featured
 
@@ -22,18 +15,6 @@ CS / AI enthusiast · University of Liverpool · Focused on **LLM inference**, *
 |---------|-------------|
 | [PyTorch-SourceCode-Overview](https://github.com/Beater-221E/PyTorch-SourceCode-Overview) | PyTorch source code walkthrough — beginner-friendly deep dives |
 | [RL-paper-step-by-step](https://github.com/Beater-221E/RL-paper-step-by-step) | Step-by-step reinforcement learning paper breakdowns |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Beater-221E&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beater-221E&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Beater-221E&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
-
-</div>
 
 ---
 
@@ -58,7 +39,6 @@ CS / AI enthusiast · University of Liverpool · Focused on **LLM inference**, *
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Webots](https://img.shields.io/badge/Webots-0066CC?style=for-the-badge&logo=robot&logoColor=white)
 
 ---
 
@@ -84,7 +64,6 @@ CS / AI enthusiast · University of Liverpool · Focused on **LLM inference**, *
 | Project | Description | Lang |
 |---------|-------------|------|
 | [143_football_match_analysis](https://github.com/Beater-221E/143_football_match_analysis) | Football match data analysis | `Jupyter Notebook` |
-| [AIcomp](https://github.com/Beater-221E/AIcomp) | AI competition project | `TypeScript` |
 | [FYP](https://github.com/Beater-221E/FYP) | Final Year Project | `R` |
 
 ### 🦾 Robotics & Simulation
@@ -99,22 +78,15 @@ CS / AI enthusiast · University of Liverpool · Focused on **LLM inference**, *
 | Project | Description | Lang |
 |---------|-------------|------|
 | [Pixel-ASCII_Animation_Web](https://github.com/Beater-221E/Pixel-ASCII_Animation_Web) | Pixel ASCII animation · University of Liverpool | `HTML` |
-| [javaweb](https://github.com/Beater-221E/javaweb) | JavaWeb course project | `JavaScript` |
 
 ---
 
-## 📫 Connect
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Beater--221E-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Beater-221E)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+<img src="./assets/astral-express-train.gif" width="100%" alt="Astral Express pixel train animation"/>
 
 <br/>
 
 *🎸 Keep coding, one step at a time~*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=667eea,764ba2&height=100&section=footer" width="100%"/>
 
 </div>
